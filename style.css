@@ -151,6 +151,7 @@ img {
 .player__btn--medium {
   min-height: 70px;
   min-width: 70px;
+  ;
 }
 
 .blue {
@@ -158,6 +159,6 @@ img {
   color: #fff;
 }
 
-.hide {
+.hidden {
   display: none;
 }
